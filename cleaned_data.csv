@@ -1,0 +1,11 @@
+Student_ID,Department,CGPA,Skill,Internship,Salary_LPA,Placed,Placement_Status
+101,CSE,8.5,Python,Yes,10,Yes,1
+102,ECE,7.2,Java,No,6,Yes,1
+103,MECH,6.8,None,No,0,No,0
+104,CSE,9.1,ML,Yes,15,Yes,1
+105,EEE,7.5,SQL,Yes,8,Yes,1
+106,CSE,6.2,None,No,0,No,0
+107,ECE,8.0,Python,Yes,9,Yes,1
+108,MECH,7.1,Java,No,5,Yes,1
+109,EEE,6.5,None,No,0,No,0
+110,MECH,6.9,None,No,0,No,0
